@@ -1,5 +1,4 @@
 # Análise de Dados com Python
-### Hashtag Programação - Intensivão de Python
 ### Desafio:
 
 Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
